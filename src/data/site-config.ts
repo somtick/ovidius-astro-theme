@@ -43,8 +43,8 @@ const siteConfig: SiteConfig = {
         src: '/logo.svg',
         alt: 'Ovidius logo'
     },
-    title: 'Ovidius',
-    description: 'Astro.js and Tailwind CSS theme for blogging by justgoodui.com',
+    title: 'JasmineMyco',
+    description: 'Symbiosis Nature',
     image: {
         src: '/ovidius-preview.jpg',
         alt: 'Ovidius - Astro.js and Tailwind CSS theme'
@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Follow on Instagram',
-            href: 'https://instagram.com/',
+            href: 'https://instagram.com/mycobev',
             icon: 'instagram'
         },
         {

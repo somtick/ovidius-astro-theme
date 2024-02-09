@@ -8,3 +8,8 @@
         --color-primary: 181 159 107; /* #B59F6B */
     }
 }
+h1,
+h2,
+h3 {
+    text-wrap: balance;
+}

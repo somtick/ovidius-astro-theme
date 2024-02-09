@@ -12,7 +12,7 @@ module.exports = {
                 primary: 'rgb(var(--color-primary) / <alpha-value>)'
             },
             fontFamily: {
-                sans: ['Cambria', ...defaultTheme.fontFamily.sans]
+                sans: ['Source+Serif+4', ...defaultTheme.fontFamily.sans]
             },
             typography: (theme) => ({
                 DEFAULT: {
